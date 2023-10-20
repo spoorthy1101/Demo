@@ -35,6 +35,14 @@ components:
       background: '', bold: false, underline: false}
     name: text_box_1
     layout_properties: {grid_position: 'ALUNXN,KUCSYY'}
+  - type: RichText
+    properties: {}
+    name: rich_text_2
+    layout_properties: {grid_position: 'OXXHDW,MORZIY'}
+  - type: TextBox
+    properties: {}
+    name: text_box_3
+    layout_properties: {grid_position: 'OXXHDW,FFAYBX'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
